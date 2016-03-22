@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "89F680C4A1D8FABB2A7A9543238CFB44A5AA2568",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "579741DD5E5FC52816FB049CDBEB24DD0A0D31F9" : 0,
+    "89F680C4A1D8FABB2A7A9543238CFB44A5AA2568" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F53578F1-02AB-4891-8FB4-CC8C366F615D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "579741DD5E5FC52816FB049CDBEB24DD0A0D31F9" : "babyComplany",
+    "89F680C4A1D8FABB2A7A9543238CFB44A5AA2568" : "bianbianbian\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "baby",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "baby.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/m18001311026\/babyComplany.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "579741DD5E5FC52816FB049CDBEB24DD0A0D31F9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mzcsky\/bianbianbian.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89F680C4A1D8FABB2A7A9543238CFB44A5AA2568"
+    }
+  ]
+}
